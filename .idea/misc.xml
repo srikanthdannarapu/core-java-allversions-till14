@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-11/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-12/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-13/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-14/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-crypto/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-io/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14_PREVIEW" default="false" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>

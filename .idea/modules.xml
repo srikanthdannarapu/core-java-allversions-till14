@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/core-java-allversions-till14.iml" filepath="$PROJECT_DIR$/.idea/core-java-allversions-till14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-crypto/crypto.iml" filepath="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-crypto/crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-io/io.iml" filepath="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-11/java11.iml" filepath="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-11/java11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-12/java12.iml" filepath="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-12/java12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-13/java13.iml" filepath="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-13/java13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-14/java14.iml" filepath="$PROJECT_DIR$/../../../../SRIKANT/june-workspace/core-java/java-14/java14.iml" />
+    </modules>
+  </component>
+</project>
